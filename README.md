@@ -2,7 +2,7 @@
 An application used for testing purposes.
 
 ## About
-Javascript project that desribes coffe machine and it´s functionalities. Also tests were performed to validate and verify the product. 
+Javascript project that describes coffe machine and it´s functionalities. Also tests were performed to validate and verify the product. 
 
 ## Task description
 ### In Croatian language
