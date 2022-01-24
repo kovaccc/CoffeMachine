@@ -1,0 +1,1 @@
+{"parent":null,"pid":8145,"argv":["/home/sandbox/.nvm/versions/node/v14.18.1/bin/node","/sandbox/node_modules/.bin/mocha"],"execArgv":[],"cwd":"/sandbox","time":1642982398043,"ppid":8134,"coverageFilename":"/sandbox/.nyc_output/0fa5b998-69c8-4de3-93b2-f318f726a4a3.json","externalId":"","uuid":"0fa5b998-69c8-4de3-93b2-f318f726a4a3","files":["/sandbox/app.js"]}
