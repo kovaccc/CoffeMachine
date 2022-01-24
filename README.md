@@ -4,6 +4,31 @@ An application used for testing purposes.
 ## About
 Javascript project that desribes coffe machine and it´s functionalities. Also tests were performed to validate and verify the product. 
 
+## Task description
+### In Croatian language
+Stroj za kavu mora imati varijable kao što su: količina kave, količina vode, status
+stroja – definirana svojstva za kavu i vodu moraju biti numeričkog tipa, dok status stroja
+mora biti Boolean tipa. Stroj za kavu mora imati metode za paljenje i gašenje stroja. Svaka
+od navedenih metoda za paljenje i gašenje mora vratiti status Boolean tipa. Ako je stroj
+upaljen i ponovo ga se pali, metoda mora vratiti poruku da je stroj već upaljen. Također ako je
+stroj ugašen, i pokušava ga se ponovno ugasiti – potrebno je vratiti poruku da je stroj već
+ugašen. Osim metode za paljenje i gašenje, potrebno je definirati metodu koja nadopunjuje
+količinu kave i vode. Predani argumenti navedenoj metodi moraju biti numeričkog tipa –
+ako je nadopuna uspješna, metoda mora vratiti status 200. Ako predani argumenti nisu
+numeričkog tipa, metoda mora vratiti grešku s definiranom porukom. Za kraj potrebno je
+definirati metodu za pravljenje kave. Sve dok ima više od 5g kave i 15ml vode stroj može
+praviti kavu. Ako stroj ima manje od navedenih količina, mora vratiti poruku da je potrebno
+nadopuniti definirane količine i ne smije omogućiti pravljenje nove kave.
+
+1. Unutar CodeSandbox-a potrebno je kreirati zad1.js i zalijepiti napisani
+programski kod.
+2. Unutar direktorija test/ potrebno je kreirati zad1.test.js i pokriti testnim
+slučajevima navedene funkcionalnosti koje su napisane u navedenom tekstu.
+3. Potrebno je analizirati programski kod i popraviti moguće greške u
+programskom kodu koje se otkriju unutar testnih slučajeva (unit testovi).
+4. Nakon pokrivenih testnih slučajeva potrebno je odraditi strukturno testiranje.
+Svi parametri strukturnog testiranja moraju biti pokriveni s 100%.
+
 ## Features
 The javascript project lets you:
 
